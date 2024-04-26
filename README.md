@@ -42,8 +42,8 @@ La toute première chose à faire est de configurer l'auteur, donc vous, votre n
 Dans votre terminal (ou git bash), tapez (ces commandes ne répondent rien) :
 
 ```shell
-    git config --global user.name "Prénom Nom"
-    git config --global user.email "monemail@fournisseur.com"
+    git config --global user.name "aya rahmani"
+    git config --global user.email "ayarahmani005@gmail.com"
     git config --global color.ui true
 ```
 Cela va ajouter des lignes à votre fichier de configuration .gitconfig, la dernière ligne permet de mettre un peu de couleur dans la réponse des différentes commande de git, ce n'est pas du luxe.
@@ -303,3 +303,4 @@ Kerwan GARCON - https://github.com/Kerwan-Garcon
 Kevin RAJENDRAM - https://github.com/laxan94
 Thierno OUMAR - https://github.com/Zenlaeth
 Yanis CORSELLE - https://github.com/yaniscorselle8
+aya rahmani - https://github.com/rahmeniaya
